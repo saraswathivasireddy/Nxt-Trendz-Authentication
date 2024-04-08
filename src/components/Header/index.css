@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.website-logo-image {
+  height: 40px;
+  width: 120px;
+  margin-left: 15px;
+}
+
+.navbar-links-styles {
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.navbar-links-container {
+  display: flex;
+  align-items: center;
+}
+
+.logout-button-style {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 90px;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 6px;
+}

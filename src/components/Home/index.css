@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.home-route-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+
+.home-route-para {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.shop-now-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 90px;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 6px;
+}
+
+.home-route-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+}
